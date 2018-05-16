@@ -5,13 +5,13 @@
       <section class="profile-number">
         <a href="javascript:" class="profile-link">
           <div class="profile_image">
-            <i class="iconfont icon-touxiang"></i>
+            <i class="iconfont icon-person"></i>
           </div>
           <div class="user-info">
             <p class="user-info-top">登录/注册</p>
             <p>
                 <span class="user-icon">
-                  <i class="iconfont icon-phone"></i>
+                  <i class="iconfont icon-shouji icon-mobile"></i>
                 </span>
               <span class="icon-mobile-number">暂无绑定手机号</span>
             </p>
@@ -41,7 +41,7 @@
         <!-- 我的订单 -->
         <a href='javascript:' class="my_order">
             <span>
-              <i class="iconfont icon-icon-"></i>
+              <i class="iconfont icon-order-s"></i>
             </span>
           <div class="my_order_div">
             <span>我的订单</span>
@@ -65,7 +65,7 @@
         <!-- 硅谷外卖会员卡 -->
         <a href="javascript:" class="my_order">
             <span>
-              <i class="iconfont icon-huiyuan"></i>
+              <i class="iconfont icon-vip"></i>
             </span>
           <div class="my_order_div">
             <span>硅谷外卖会员卡</span>
@@ -79,12 +79,12 @@
         <!-- 服务中心 -->
         <a href="javascript:" class="my_order">
             <span>
-              <i class="iconfont icon-fuwuzhongxin"></i>
+              <i class="iconfont icon-fuwu"></i>
             </span>
           <div class="my_order_div">
             <span>服务中心</span>
             <span class="my_order_icon">
-                <i class="iconfont "></i>
+                <i class="iconfont icon-jiantou1"></i>
               </span>
           </div>
         </a>

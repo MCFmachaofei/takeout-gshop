@@ -8,19 +8,19 @@
     </a>
     <a href="javascript:;" class="guide_item" @click="goto('/search')" :class="{on:isCurrent('/search')}">
       <span class="item_icon">
-        <i class="iconfont icon-icon-test"></i>
+        <i class="iconfont icon-search"></i>
       </span>
       <span>搜索</span>
     </a>
     <a href="javascript:;" class="guide_item" @click="goto('/order')" :class="{on:isCurrent('/order')}">
       <span class="item_icon">
-        <i class="iconfont icon-icon-"></i>
+        <i class="iconfont icon-dingdan"></i>
       </span>
       <span>订单</span>
     </a>
     <a href="javascript:;" class="guide_item" @click="goto('/profile')" :class="{on:isCurrent('/profile')}">
       <span class="item_icon">
-        <i class="iconfont icon-gerenzhongxin"></i>
+        <i class="iconfont icon-geren"></i>
       </span>
       <span>我的</span>
     </a>

@@ -3,7 +3,7 @@
     <!--首页头部-->
     <HeaderTop title="昌平区北七家宏福科技园(337省道北)">
       <span class="header_search" slot="left">
-        <i class="iconfont icon-icon-test"></i>
+        <i class="iconfont icon-sousuo"></i>
       </span>
       <span class="header_login" slot="right">
         <span class="header_login_text">登陆|注册</span>
