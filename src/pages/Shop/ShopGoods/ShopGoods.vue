@@ -49,6 +49,7 @@
   </div>
 </template>
 
+
 <script>
   import BScroll from 'better-scroll'
   import {mapState} from 'vuex'
@@ -262,9 +263,3 @@
             right: 0
             bottom: 12px
 </style>
-
-
-
-
-
-
